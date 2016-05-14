@@ -2,7 +2,7 @@ package RobotUI;
 
 /**
  *
- * @author Aastha - The RobotClass is an entity class that holds the attributes
+ * @author Keerthi Bala Sundram, Aastha Dixit - The RobotClass is an entity class that holds the attributes
  * of the Robot
  */
 public class RobotClass {

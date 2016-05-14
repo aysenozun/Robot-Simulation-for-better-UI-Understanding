@@ -2,7 +2,7 @@ package RobotUI;
 
 /**
  *
- * @author Aastha - The UIPresentation class is the presentation tier of the
+ * @author Aastha Dixit, and Keerthi Bala Sundram - The UIPresentation class is the presentation tier of the
  * Robot Application. This class controls the drawings, rendering of graphical
  * elements of the application. This class is also the started class for the
  * Robot application.

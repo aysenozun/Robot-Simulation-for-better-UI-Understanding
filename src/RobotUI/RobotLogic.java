@@ -10,7 +10,7 @@ import javax.swing.Timer;
 
 /**
  *
- * @author Aastha The RobotLogic Class represents the Business Tier Class, and
+ * @author Keerthi Bala Sundram & Aastha Dixit : The RobotLogic Class represents the Business Tier Class, and
  * contains for the movement of the robot, and control panel actions of the
  * application.
  */
